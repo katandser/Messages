@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Письма</string>
+    <string name="read">Прочитали: %d</string>
+</resources>
